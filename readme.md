@@ -57,3 +57,11 @@ MIT License - Free for educational and personal use
 **Solution**: Wait 1-2 minutes between scrapes
 
 ---
+
+## 🌐 Source Of proxies:
+- Github: Zaeem20
+- Github: proxifly
+- Api: api.proxyscrape.com
+- Api: www.proxy-list.download
+
+---
