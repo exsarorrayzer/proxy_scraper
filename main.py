@@ -10,6 +10,8 @@ raw_links = [  # By Rayzer
     "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/refs/heads/master/https.txt",  # By Rayzer
     "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/refs/heads/master/http.txt",  # By Rayzer
     "https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/all/data.txt"  # By Rayzer
+    "https://api.proxyscrape.com/v2/?request=getproxies&protocol=http"  # By Rayzer
+    "https://www.proxy-list.download/api/v1/get?type=http"  # By Rayzer
 ]  # By Rayzer
 
 def clean_proxies(text):  # By Rayzer
